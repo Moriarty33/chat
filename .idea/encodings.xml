@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/processing/chat.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processing/delete_msg.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processing/destroy.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processing/edit_msg.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processing/login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processing/register.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processing/session.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/template/chat.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/template/login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/template/register.php" charset="UTF-8" />
+  </component>
+</project>
